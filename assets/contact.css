@@ -1,0 +1,45 @@
+* {
+    background-color: gray;
+}
+
+.cabezera {
+    text-align: center;
+}
+
+.type {
+    margin-left: 100px;
+}
+
+.select {
+    background-color: white;
+    width: 400px;
+    margin-left: 100px;
+}
+
+.nombre {
+    margin-left: 100px;
+}
+
+.nombre-2 {
+    background-color: white;
+    margin-left: 100px;
+    width: 400px;
+
+}
+
+.si {
+    margin-left: 100px;
+}
+
+.no {
+    background-color: white;
+    margin-left: 100px;
+    width: 400px;
+}
+
+.nose {
+    background-color: white;
+    margin-left: 100px;
+    display: block;
+    cursor: pointer;
+}
